@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🌌 Welcome to the Empire | darthsidious-ui
 
-<!--
-**darthsidious-ui/darthsidious-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "The power to automate a planet is insignificant next to the power of the Source Control."
 
-Here are some ideas to get you started:
+I am a DevOps Enthusiast and Infrastructure Architect focusing on **Immutable Systems** and **High-Performance Homelabs**. I build robust, self-healing environments where manual configuration is a myth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ The Imperial Homelab (Current Stack)
+- **Primary Compute:** Minisforum UM890Pro | Ryzen 9 8945HS | 96GB RAM | 4TB NVMe RAID0
+- **OS:** Fedora CoreOS (Immutable Infrastructure)
+- **Edge Nodes:** 3x Raspberry Pi 2B (Traffic Routing & Monitoring)
+- **Workstation:** Fedora Silverblue (Containerized Workflow)
+
+### 🛠️ Tech Arsenal
+- **Orchestration:** Kubernetes (K3s), Podman
+- **IaC:** Terraform, Ansible, Ignition
+- **CI/CD:** GitHub Actions, GitOps (ArgoCD)
+- **Monitoring:** Prometheus, Grafana
+
+### 🚀 Active Projects
+- **[dev-station](./dev-station):** My portable, containerized DevOps environment.
+- **Project Death Star:** A GitOps-driven Minecraft platform for my son (Work in Progress).
+
+---
+*If you want to reach out, find me in the clouds.*
