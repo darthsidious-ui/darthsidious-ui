@@ -17,7 +17,7 @@ I am a DevOps Enthusiast and Infrastructure Architect focusing on **Immutable Sy
 - **Monitoring:** Prometheus, Grafana
 
 ### 🚀 Active Projects
-- **[dev-station](/dev-station):** My portable, containerized DevOps environment.
+- **[dev-station](https://github.com/darthsidious-ui/dev-station):** My portable, containerized DevOps environment.
 - **Project Death Star:** A GitOps-driven Minecraft platform for my son (Work in Progress).
 
 ---
